@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "FFmpegKit"
 include(":ffmpegkit")
+//include(":androidApp")
+//include(":shared")
